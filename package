@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+zip package.zip manifest.json remove_blockers.js
